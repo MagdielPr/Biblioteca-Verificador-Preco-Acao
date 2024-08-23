@@ -104,7 +104,7 @@ O diagrama acima ilustra a arquitetura do sistema, mostrando a interação entre
 
 ## Considerações Finais
 
-A biblioteca desenvolvida oferece uma solução robusta e escalável para a consulta e análise de preços de ações. Sua arquitetura modular e uso de tecnologias modernas garantem desempenho e flexibilidade.
+A biblioteca desenvolvida oferece uma solução escalável para a consulta e análise de preços de ações. Sua arquitetura modular e uso de tecnologias modernas garantem desempenho e flexibilidade.
 
 ## Referências
 
