@@ -1,3 +1,7 @@
+Claro, vou adicionar essa informação ao README. Aqui está a versão atualizada:
+
+---
+
 # Biblioteca Java para Consulta de Preços de Ações em Bolsa de Valores
 
 ## Descrição
@@ -50,6 +54,10 @@ A integração com uma API externa permite a obtenção de cotações em tempo r
 
    Compile o projeto utilizando seu IDE ou uma ferramenta de build como Maven ou Gradle.
 
+5. **Criar a tabela no banco de dados:**
+
+   O código para a criação da tabela responsável pelo armazenamento dos dados históricos está localizado no pacote `Libraries`. Certifique-se de executar o script de criação da tabela fornecido para garantir que o banco de dados esteja configurado corretamente.
+
 ## Uso
 
 1. **Inicializar a biblioteca:**
@@ -94,7 +102,7 @@ Execute os testes utilizando o framework JUnit.
 
 ## Diagrama do Projeto
 
-![Diagrama do Sistema](caminho/para/o/diagrama.png)
+![DiagramaUML](https://github.com/user-attachments/assets/fc32a7f6-61a8-4040-98e9-f57afaaea11c)
 
 O diagrama acima ilustra a arquitetura do sistema, mostrando a interação entre os componentes Cliente, Servidor e Banco de Dados, bem como a API externa de cotações.
 
@@ -113,3 +121,7 @@ A biblioteca desenvolvida oferece uma solução robusta e escalável para a cons
 
 - **Magdiel Prestes Rodrigues**: magdielprestes@gmail.com
 - **Rodrigo Curvello**: rodrigo.curvello@ifc.edu.br
+
+---
+
+Sinta-se à vontade para ajustar conforme necessário!
