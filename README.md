@@ -1,7 +1,3 @@
-Claro, vou adicionar essa informação ao README. Aqui está a versão atualizada:
-
----
-
 # Biblioteca Java para Consulta de Preços de Ações em Bolsa de Valores
 
 ## Descrição
@@ -121,7 +117,3 @@ A biblioteca desenvolvida oferece uma solução robusta e escalável para a cons
 
 - **Magdiel Prestes Rodrigues**: magdielprestes@gmail.com
 - **Rodrigo Curvello**: rodrigo.curvello@ifc.edu.br
-
----
-
-Sinta-se à vontade para ajustar conforme necessário!
